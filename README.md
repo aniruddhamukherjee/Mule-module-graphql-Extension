@@ -1,4 +1,4 @@
-# Mule-module-graphql-Extension
+# Custom graphQL plugin for Mule 4
 
 This project will build a custom plugin which can be added to any Mule 4 app to implement GraphQL capabilities.
 
@@ -17,3 +17,6 @@ This command will build a jar which can then be added as a maven dependency like
 			<version>1.0.0-SNAPSHOT</version>
 			<classifier>mule-plugin</classifier>
 </dependency>
+
+
+Ref : https://github.com/mulesoft-labs/graphql-router
